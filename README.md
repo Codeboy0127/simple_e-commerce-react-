@@ -1,11 +1,13 @@
-# E-Commerce Website
+E-commerce Website
 
-A Ecommerce Website made with React.js Framework.
+# Description
+
+A Simple Ecommerce Website made with React.js Framework.
 
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+https://codeboy/reactjs-ecommerce-app.vercel.app/
 
 ## Features
 
@@ -15,16 +17,14 @@ https://reactjs-ecommerce-app.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
-
-
+![App Screenshot](https://i.ibb.co/fQ293tm/myimage.png)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone https://github.com/Codeboy0127/simple_E-Commerce(react)
 ```
 
 Go to the project directory
@@ -62,6 +62,6 @@ Just raise an issue, we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
+If you have any feedback, please reach out to me [here](https://codeboy.github.io/#contact)
 
 
