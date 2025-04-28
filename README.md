@@ -45,8 +45,6 @@ Start the server
   npm start
 ```
 
-
-
 ## Tech Stack
 
 * [React](https://reactjs.org/)
