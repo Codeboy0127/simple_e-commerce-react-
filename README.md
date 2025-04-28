@@ -2,7 +2,7 @@ E-commerce Website
 
 # Description
 
-A Simple Ecommerce Website made with React.js Framework.
+A Simple Ecommerce Website made by React.js Framework.
 
 
 ## Demo
